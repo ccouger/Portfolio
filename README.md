@@ -26,4 +26,4 @@ I will be quick to respond and I also have my resume included in the portfolio w
 
 ## Contents
 
-Within this portfolio you will find some of my favorite projects throughout my data science journey. A lot of these are consisted of work I did in my graduate program when obtaining my MS in Data Science. I'm proud of these projects and am glad they can represent my enjoyment for data science and all the different techniques I enjoy. Please give a look to the other README files as they give some good insight to what each project is. Thank you!
+Within this portfolio you will find some of my favorite projects (located in the 'Projects' folder) throughout my data science journey. A lot of these are consisted of work I did in my graduate program when obtaining my MS in Data Science. I'm proud of these projects and am glad they can represent my enjoyment for data science and all the different techniques I enjoy. Please give a look to the other README files as they give some good insight to what each project is. Thank you!
