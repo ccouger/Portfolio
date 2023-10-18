@@ -1,5 +1,4 @@
-# Portfolio
- of Corbin Couger
+# Corbin Couger, Data Scientist
 
 ## About Me
 
