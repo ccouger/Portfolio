@@ -1,5 +1,9 @@
 title:
-theme: jekyll-theme-minima
+author: Corbin Couger
+email: corbin.0007@yahoo.com
+theme: minima
 minima:
   social_links:
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/corbincouger/" }
+
+  show_excerpts: false
