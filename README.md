@@ -23,7 +23,7 @@ corbin.0007@yahoo.com
 
 I will be quick to respond.
 
-My [resume](https://github.com/ccouger/Portfolio/blob/main/Corbin%20Couger%20Resume.pdf) is also included in the my repo with further contact information
+My [resume](https://github.com/ccouger/Portfolio/blob/main/Corbin%20Couger%20Resume.pdf) is also included in my repo with further contact information
 
 ## Contents
 
