@@ -1,7 +1,7 @@
 title:
 author: Corbin Couger
 email: corbin.0007@yahoo.com
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
