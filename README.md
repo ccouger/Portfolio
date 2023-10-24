@@ -7,7 +7,7 @@
 
 [Contact Info](https://github.com/ccouger/ccouger.github.io#contact-information)
 
-[My Projects](https://github.com/ccouger/ccouger.github.io/tree/main/Projects)
+[My Projects](./project-page.html)
 
 ## About Me
 
