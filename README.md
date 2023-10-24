@@ -1,5 +1,11 @@
 # Corbin Couger, Data Scientist
 
+##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
+[About Me](https://github.com/ccouger/ccouger.github.io#about-me)
+[Recent Experiences](https://github.com/ccouger/ccouger.github.io#recent-experiences)
+[Contact Info](https://github.com/ccouger/ccouger.github.io#contact-information)
+[My Projects](https://github.com/ccouger/ccouger.github.io/tree/main/Projects)
+
 ## About Me
 
 Hello, my name is Corbin Couger and I'm from Indianapolis, IN. I'm a recent Bellevue University grad (2023), where I recieved my Master's in Data Science and previously a Butler University grad (2021), getting my Bachelor's in Statistics with a focus on Data Science. I've been able to do a lot of fun projects personally, educationally, and professionally. I'm very passionate about the math that drives powerful data science models. I enjoy using Python and R to build different Regression models, Classification models, Clustering Models, and more. Using my background in statistics I have become very well-rounded for completing full data projects.
@@ -23,8 +29,8 @@ corbin.0007@yahoo.com
 
 I will be quick to respond.
 
-My [resume](https://github.com/ccouger/Portfolio/blob/main/Corbin%20Couger%20Resume.pdf) is also included in my repo with further contact information
+My [resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume.pdf) is also included in my repo with further contact information
 
 ## Contents
 
-Within this portfolio you will find some of my favorite projects (located in the 'Projects' folder, or click [here](https://github.com/ccouger/Portfolio/tree/main/Projects)) throughout my data science journey. A lot of these are consisted of work I did in my graduate program when obtaining my MS in Data Science. I'm proud of these projects and am glad they can represent my enjoyment for data science and all the different techniques I enjoy. Please give a look to the other README files as they give some good insight to what each project is. Thank you!
+Within this portfolio you will find some of my favorite projects (located in the 'Projects' folder, or click [here](https://github.com/ccouger/ccouger.github.io/tree/main/Projects) throughout my data science journey. A lot of these are consisted of work I did in my graduate program when obtaining my MS in Data Science. I'm proud of these projects and am glad they can represent my enjoyment for data science and all the different techniques I enjoy. Please give a look to the other README files as they give some good insight to what each project is. Thank you!
