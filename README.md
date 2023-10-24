@@ -3,9 +3,9 @@
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
 [About Me](#about-me)
 
-[Recent Experiences](https://github.com/ccouger/ccouger.github.io#recent-experiences)
+[Recent Experiences](#recent-experiences)
 
-[Contact Info](https://github.com/ccouger/ccouger.github.io#contact-information)
+[Contact Info](#contact-information)
 
 [My Projects](./project-page.html)
 
