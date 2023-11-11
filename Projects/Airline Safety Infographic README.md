@@ -6,4 +6,4 @@ This infographic is a combination of a couple weeks worth of finding data, explo
 
 Utilizing Tableau, PowerBi, Matplotlib in Python, and ggplot2 in R Studio; I was able to create useful visualizations that provided general information to the public. This is something that would be hung or projected in an airport for people to read on their own.
 
-This project is just a glimpse of what I can do in the data visualization space! Thanks for checking it out
+This project is just a glimpse of what I can do in the data visualization space! Thanks for checking it out! Click [here](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Airline%20Safety%20Infographic.pptx) to download the inforgraphic.
