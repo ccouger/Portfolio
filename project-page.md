@@ -17,3 +17,5 @@ Thanks for checking them out!
 ### [Customer Churn Rate Using Logistic Regression & Decision Trees](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Bank%20Customer%20Churn%20Rate%20Logistic%20Regression%20and%20Decision%20Tree.pdf)
 
 ### [Youtube Views Linear Regression](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Youtube%20Views%20Linear%20Regression.pdf)
+
+### [Stock Price Prediction, Time Series Analysis](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Stock%20Predictions%20Time%20Series%20Analysis.pdf)
