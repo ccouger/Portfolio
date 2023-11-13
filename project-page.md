@@ -19,3 +19,5 @@ Thanks for checking them out!
 ### [Youtube Views Linear Regression](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Youtube%20Views%20Linear%20Regression.pdf)
 
 ### [Stock Price Prediction, Time Series Analysis](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Stock%20Predictions%20Time%20Series%20Analysis.pdf)
+
+### [Spotify Recommender System](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Spotify%20Recommender%20System.pdf)
