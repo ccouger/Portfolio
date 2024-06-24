@@ -21,9 +21,9 @@ With all of my passions and education combined, I feel; creative, analytical, an
 
 During my time as an undergraduate, I got the pleasure of working as a Summer Intern for a non-profit energy company, MISO. This experience was my first time, professionally, getting to work with real-world data and using Python, R, and SQL to clean data and create a ML model. I had a lot of fun with this and it was a great learning experience.
 
-After earning my Bachelor's, I first got hired on as a Data Analyst for Humana Inc. where I worked on an internal IT team that tested new technologies and softwares before deploying them company wide. I was in charge of collecting feedback and user expereience data where I analyzed whether or not these technologies should get deployed. I also was in charge of determining the population of candidates for these testing pilots. I enjoyed this experience a lot as I got to sharpen my skills in SQL and user experience.
+After earning my Bachelor's, I first got hired on as a Data Analyst where I worked on an internal IT team that tested new technologies and softwares before deploying them company wide. I was in charge of collecting feedback and user expereience data where I analyzed whether or not these technologies should get deployed. I also was in charge of determining the population of candidates for these testing pilots. I enjoyed this experience a lot as I got to sharpen my skills in SQL and user experience.
 
-Currently, I am working as a Staff Analyst for Myers & Stauffer. I do many different projects with client data, typically including millions of rows of data spanning numerous columns wide. The typical work includes me validating data loads, analyzing historic price data to re-calculate economicly friendly prices, and extracting different populations of data to start an analysis. This experience is further sharpening my SQL skills and am hopeful that I get to start working with Python/R here soon in this role.
+Recently, I've left my role as an Analyst to find a role better fit for me. Something that will put me to the test and aid in my growth as a Data Scientist. The roles I am seeking are; Data Scientist, Data Analyst, or Quant roles that is either based in Chicago, IL or remote.
 
 ### Contact Information
 Feel free to reach out via email to me with any questions or comments!
